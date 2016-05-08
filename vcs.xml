@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/january89/th_java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/january89/This_Is_Repository.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\source\" />
+    <option name="cloneParentDir" value="D:\source\GIT" />
   </component>
 </application>
